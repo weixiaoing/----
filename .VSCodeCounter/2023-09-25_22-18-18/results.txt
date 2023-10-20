@@ -1,0 +1,148 @@
+Date : 2023-09-25 22:18:18
+Directory : c:\Users\dawn\Desktop\test\VueSocial
+Total : 76 files,  26160 codes, 118 comments, 1456 blanks, all 27734 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          4 |     13,241 |          0 |          4 |     13,245 |
+| YAML       |          1 |      6,793 |          0 |      1,060 |      7,853 |
+| vue        |         24 |      3,687 |          2 |        139 |      3,828 |
+| JavaScript |         43 |      1,858 |         94 |        176 |      2,128 |
+| Markdown   |          2 |        516 |          1 |         62 |        579 |
+| CSS        |          1 |         46 |         20 |         14 |         80 |
+| HTML       |          1 |         19 |          1 |          1 |         21 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                        | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                           |         76 |     26,160 |        118 |      1,456 |     27,734 |
+| . (Files)                                                                                   |          1 |        502 |          1 |         54 |        557 |
+| BlogPhone                                                                                   |         50 |     22,727 |        103 |      1,344 |     24,174 |
+| BlogPhone (Files)                                                                           |          6 |     18,149 |          3 |      1,073 |     19,225 |
+| BlogPhone\build                                                                             |          7 |        455 |         40 |         56 |        551 |
+| BlogPhone\config                                                                            |          3 |         47 |         26 |         16 |         89 |
+| BlogPhone\src                                                                               |         34 |      4,076 |         34 |        199 |      4,309 |
+| BlogPhone\src (Files)                                                                       |          2 |        207 |          7 |         18 |        232 |
+| BlogPhone\src\common                                                                        |          3 |         91 |         20 |         18 |        129 |
+| BlogPhone\src\common\css                                                                    |          1 |         46 |         20 |         14 |         80 |
+| BlogPhone\src\common\js                                                                     |          2 |         45 |          0 |          4 |         49 |
+| BlogPhone\src\components                                                                    |         15 |      1,954 |          1 |         94 |      2,049 |
+| BlogPhone\src\components\FooterGuide                                                        |          1 |        100 |          0 |          5 |        105 |
+| BlogPhone\src\components\chat                                                               |          1 |        298 |          0 |          4 |        302 |
+| BlogPhone\src\components\comlist                                                            |          1 |        142 |          0 |          5 |        147 |
+| BlogPhone\src\components\comment                                                            |          1 |         81 |          0 |          5 |         86 |
+| BlogPhone\src\components\img-display                                                        |          1 |        131 |          0 |         10 |        141 |
+| BlogPhone\src\components\loading                                                            |          1 |         26 |          0 |          1 |         27 |
+| BlogPhone\src\components\myheader                                                           |          1 |         57 |          1 |          4 |         62 |
+| BlogPhone\src\components\personalIndex                                                      |          1 |        330 |          0 |          5 |        335 |
+| BlogPhone\src\components\scroll                                                             |          1 |        137 |          0 |          6 |        143 |
+| BlogPhone\src\components\show-img                                                           |          1 |        206 |          0 |         21 |        227 |
+| BlogPhone\src\components\slider                                                             |          1 |        158 |          0 |         13 |        171 |
+| BlogPhone\src\components\unlogin                                                            |          1 |         27 |          0 |          3 |         30 |
+| BlogPhone\src\components\updataavater                                                       |          1 |        131 |          0 |          4 |        135 |
+| BlogPhone\src\components\updataname                                                         |          1 |         65 |          0 |          4 |         69 |
+| BlogPhone\src\components\updatasign                                                         |          1 |         65 |          0 |          4 |         69 |
+| BlogPhone\src\pages                                                                         |          8 |      1,599 |          1 |         39 |      1,639 |
+| BlogPhone\src\pages\Home                                                                    |          1 |        412 |          0 |          5 |        417 |
+| BlogPhone\src\pages\Login                                                                   |          1 |        101 |          0 |          4 |        105 |
+| BlogPhone\src\pages\News                                                                    |          1 |        194 |          0 |          6 |        200 |
+| BlogPhone\src\pages\Profile                                                                 |          1 |        104 |          0 |          5 |        109 |
+| BlogPhone\src\pages\Register                                                                |          1 |         93 |          0 |          5 |         98 |
+| BlogPhone\src\pages\Search                                                                  |          2 |        502 |          0 |          9 |        511 |
+| BlogPhone\src\pages\upload                                                                  |          1 |        193 |          1 |          5 |        199 |
+| BlogPhone\src\router                                                                        |          1 |        108 |          0 |          8 |        116 |
+| BlogPhone\src\store                                                                         |          5 |        117 |          5 |         22 |        144 |
+| server                                                                                      |         25 |      2,931 |         14 |         58 |      3,003 |
+| server (Files)                                                                              |          3 |      2,013 |          3 |          9 |      2,025 |
+| server\models                                                                               |          7 |         21 |          0 |         11 |         32 |
+| server\routers                                                                              |          7 |        745 |         10 |         21 |        776 |
+| server\schemas                                                                              |          7 |        129 |          0 |         16 |        145 |
+| server\socket                                                                               |          1 |         23 |          1 |          1 |         25 |
++---------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                    | language   | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\.postcssrc.js                                | JavaScript |          7 |          2 |          2 |         11 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\README.md                                    | Markdown   |         14 |          0 |          8 |         22 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\build\build.js                               | JavaScript |         35 |          0 |          7 |         42 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\build\check-versions.js                      | JavaScript |         45 |          0 |         10 |         55 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\build\utils.js                               | JavaScript |         80 |          5 |         17 |        102 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\build\vue-loader.conf.js                     | JavaScript |         21 |          0 |          2 |         23 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\build\webpack.base.conf.js                   | JavaScript |         78 |          4 |          5 |         87 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\build\webpack.dev.conf.js                    | JavaScript |         82 |          7 |          7 |         96 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\build\webpack.prod.conf.js                   | JavaScript |        114 |         24 |          8 |        146 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\config\dev.env.js                            | JavaScript |          6 |          0 |          2 |          8 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\config\index.js                              | JavaScript |         37 |         26 |         13 |         76 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\config\prod.env.js                           | JavaScript |          4 |          0 |          1 |          5 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\index.html                                   | HTML       |         19 |          1 |          1 |         21 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\package-lock.json                            | JSON       |     11,237 |          0 |          1 |     11,238 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\package.json                                 | JSON       |         79 |          0 |          1 |         80 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\pnpm-lock.yaml                               | YAML       |      6,793 |          0 |      1,060 |      7,853 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\app.vue                                  | vue        |        134 |          0 |          6 |        140 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\common\css\reset.css                     | CSS        |         46 |         20 |         14 |         80 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\common\js\dom.js                         | JavaScript |         10 |          0 |          1 |         11 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\common\js\localStorage.js                | JavaScript |         35 |          0 |          3 |         38 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\components\FooterGuide\FooterGuide.vue   | vue        |        100 |          0 |          5 |        105 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\components\chat\chat.vue                 | vue        |        298 |          0 |          4 |        302 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\components\comlist\comlist.vue           | vue        |        142 |          0 |          5 |        147 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\components\comment\comment.vue           | vue        |         81 |          0 |          5 |         86 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\components\img-display\img-display.vue   | vue        |        131 |          0 |         10 |        141 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\components\loading\loading.vue           | vue        |         26 |          0 |          1 |         27 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\components\myheader\my-header.vue        | vue        |         57 |          1 |          4 |         62 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\components\personalIndex\pindex.vue      | vue        |        330 |          0 |          5 |        335 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\components\scroll\scroll.vue             | vue        |        137 |          0 |          6 |        143 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\components\show-img\show-img.vue         | vue        |        206 |          0 |         21 |        227 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\components\slider\slider.vue             | vue        |        158 |          0 |         13 |        171 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\components\unlogin\unlogin.vue           | vue        |         27 |          0 |          3 |         30 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\components\updataavater\updataavater.vue | vue        |        131 |          0 |          4 |        135 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\components\updataname\updataname.vue     | vue        |         65 |          0 |          4 |         69 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\components\updatasign\updatasign.vue     | vue        |         65 |          0 |          4 |         69 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\main.js                                  | JavaScript |         73 |          7 |         12 |         92 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\pages\Home\Home.vue                      | vue        |        412 |          0 |          5 |        417 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\pages\Login\Login.vue                    | vue        |        101 |          0 |          4 |        105 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\pages\News\News.vue                      | vue        |        194 |          0 |          6 |        200 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\pages\Profile\Profile.vue                | vue        |        104 |          0 |          5 |        109 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\pages\Register\Register.vue              | vue        |         93 |          0 |          5 |         98 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\pages\Search\Search.vue                  | vue        |        101 |          0 |          4 |        105 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\pages\Search\SearchBar.vue               | vue        |        401 |          0 |          5 |        406 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\pages\upload\upload.vue                  | vue        |        193 |          1 |          5 |        199 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\router\index.js                          | JavaScript |        108 |          0 |          8 |        116 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\store\actions.js                         | JavaScript |          1 |          0 |          2 |          3 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\store\index.js                           | JavaScript |          9 |          0 |          3 |         12 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\store\mutation-types.js                  | JavaScript |         11 |          0 |         12 |         23 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\store\mutations.js                       | JavaScript |         86 |          5 |          3 |         94 |
+| c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\store\state.js                           | JavaScript |         10 |          0 |          2 |         12 |
+| c:\Users\dawn\Desktop\test\VueSocial\README.md                                              | Markdown   |        502 |          1 |         54 |        557 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\app.js                                          | JavaScript |         88 |          3 |          7 |         98 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\models\ChatContent.js                           | JavaScript |          3 |          0 |          1 |          4 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\models\ChatRelation.js                          | JavaScript |          3 |          0 |          1 |          4 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\models\Comment.js                               | JavaScript |          3 |          0 |          2 |          5 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\models\Idtoid.js                                | JavaScript |          3 |          0 |          1 |          4 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\models\Password.js                              | JavaScript |          3 |          0 |          2 |          5 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\models\Pyq.js                                   | JavaScript |          3 |          0 |          2 |          5 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\models\User.js                                  | JavaScript |          3 |          0 |          2 |          5 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\package-lock.json                               | JSON       |      1,903 |          0 |          1 |      1,904 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\package.json                                    | JSON       |         22 |          0 |          1 |         23 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\routers\chat.js                                 | JavaScript |        187 |          0 |          4 |        191 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\routers\comment.js                              | JavaScript |        131 |          0 |          2 |        133 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\routers\main.js                                 | JavaScript |        107 |          4 |          4 |        115 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\routers\profile.js                              | JavaScript |        109 |          0 |          2 |        111 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\routers\pyq.js                                  | JavaScript |         63 |          0 |          3 |         66 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\routers\search.js                               | JavaScript |         28 |          0 |          2 |         30 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\routers\upload.js                               | JavaScript |        120 |          6 |          4 |        130 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\schemas\chatcontent.js                          | JavaScript |         23 |          0 |          2 |         25 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\schemas\chatrelation.js                         | JavaScript |         16 |          0 |          3 |         19 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\schemas\comments.js                             | JavaScript |         36 |          0 |          1 |         37 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\schemas\idtoid.js                               | JavaScript |          6 |          0 |          2 |          8 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\schemas\password.js                             | JavaScript |          6 |          0 |          2 |          8 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\schemas\pyq.js                                  | JavaScript |         25 |          0 |          4 |         29 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\schemas\users.js                                | JavaScript |         17 |          0 |          2 |         19 |
+| c:\Users\dawn\Desktop\test\VueSocial\server\socket\index.js                                 | JavaScript |         23 |          1 |          1 |         25 |
+| Total                                                                                       |            |     26,160 |        118 |      1,456 |     27,734 |
++---------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

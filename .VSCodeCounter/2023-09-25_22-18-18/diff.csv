@@ -1,0 +1,8 @@
+"filename", "language", "JSON", "YAML", "vue", "JavaScript", "comment", "blank", "total"
+"c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\config\index.js", "JavaScript", 0, 0, 0, 0, 0, -2, -2
+"c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\package.json", "JSON", 2, 0, 0, 0, 0, 0, 2
+"c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\pnpm-lock.yaml", "YAML", 0, 6793, 0, 0, 0, 1060, 7853
+"c:\Users\dawn\Desktop\test\VueSocial\BlogPhone\src\components\chat\chat.vue", "vue", 0, 0, 27, 0, 0, 0, 27
+"c:\Users\dawn\Desktop\test\VueSocial\server\app.js", "JavaScript", 0, 0, 0, 6, 0, -3, 3
+"c:\Users\dawn\Desktop\test\VueSocial\server\routers\upload.js", "JavaScript", 0, 0, 0, 7, 2, 0, 9
+"Total", "-", 2, 6793, 27, 13, 2, 1055, 7892
